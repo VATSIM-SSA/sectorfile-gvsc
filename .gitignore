@@ -3,7 +3,6 @@
 *.ese
 *.sct
 *.rwy
-*.pdf
 
 # Folder Exclusions
 GVSC/Alias/*
