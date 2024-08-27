@@ -1,5 +1,8 @@
 # VATSSA Sector File Development for GVSC Sal
 
+[![latest-version](https://img.shields.io/github/v/release/vatssa/sectorfile-gvsc?include_prereleases)](https://github.com/vatssa/sectorfile-gvsc/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
+[![gr-version](https://img.shields.io/badge/Ground%20Radar-1.5-blue.svg)](https://forum.vatsim-scandinavia.org/t/ground-radar)
+
 ## Introduction
 
 This is the Sector File Development Repository for the GVSC Sal FIR for use on Euroscope as part of the VATSIM online ecosystem. It's not meant to be used for any real world aviation capability.
