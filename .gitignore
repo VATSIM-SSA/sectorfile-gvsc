@@ -1,5 +1,5 @@
 # File Type Exclusions
-*.prf
+# *.prf
 *.ese
 *.sct
 *.rwy
