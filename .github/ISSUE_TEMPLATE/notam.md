@@ -13,10 +13,11 @@ Please provide the NOTAM ID for this request.
 Please provide the NOTAM description.
 
 **What features does this NOTAM impact?**
-[ ] Ground Layout
-[ ] Ground Radar
-[ ] TopSky
-[ ] vATIS
+
+- [ ] Ground Layout
+- [ ] Ground Radar
+- [ ] TopSky
+- [ ] vATIS
 
 **Screenshots**
 If possible, attach screenshots that demonstrate the need.
