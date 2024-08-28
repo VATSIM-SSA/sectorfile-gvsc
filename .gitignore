@@ -5,10 +5,11 @@
 *.rwy
 
 # Folder Exclusions
-GVSC/Alias/*
-GVSC/NavData/*
-GVSC/ICAO/*
-GVSC/Sounds/*
+GVSC/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
