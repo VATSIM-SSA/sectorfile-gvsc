@@ -1,5 +1,7 @@
 on:
   push:
+    paths:
+      - "eAIP/**"
     branches:
       - main
 name: Deploy eAIP to Krystal FTP
@@ -18,9 +20,8 @@ jobs:
           username: ${{ secrets.EAIP_FTP_USER }}
           password: ${{ secrets.EAIP_FTP_PWD }}
           local-dir: "eAIP/"
-          state-name: "eAIP/.ftp-deploy-sync-state.json"
+          state-name: ".ftp-deploy-sync-state-gvsc.json"
           exclude: |
             **/.git*
             **/.git*/**
             **/node_modules/**
-            .ftp-deploy-sync-state.json
