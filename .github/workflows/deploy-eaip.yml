@@ -16,7 +16,7 @@ jobs:
         with:
           server: 141.98.26.4
           username: ${{ secrets.EAIP_FTP_USER }}
-          password: ${{ secrets.EAIP_FTP_PASSWORD }}
+          password: ${{ secrets.EAIP_FTP_PWD }}
           local-dir: "eAIP/"
           state-name: "eAIP/.ftp-deploy-sync-state.json"
           exclude: |
