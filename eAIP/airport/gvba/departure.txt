@@ -1,0 +1,11 @@
+===== GVBA Departure =====
+
+  * GVBA doesn't have a dedicated Departure Position, with Sal Approach (GVSC_APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+  * All aircraft are required to fly the assigned SID given by ATC. Controllers may issue continuous climb instructions to FL245. Further climb instructions may be issued to FL280 if no controller is above or to other FL if coordinated prior.
+
+
+{{page>gv-footer#GVBA}}

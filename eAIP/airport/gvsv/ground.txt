@@ -1,0 +1,42 @@
+===== GVSV Ground =====
+
+<code>There is no GVSV_GND position with GVSV_TWR assuming the role of Ground Controller.</code>
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Pushback Approved}}
+
+=== Directions ===
+
+^ Apron   ^ Type ^ Facing ^ Remarks ^
+| Apron 1 | All  | Twy C facing SW | //if Rwy 06 is active// |
+| Apron 2 | All  | ::: | ::: |
+| Apron 3 | All  | ::: | ::: |
+
+
+==== Taxi Out Procedures ====
+
+  * When runway 06 is active, departing traffic shall be instructed to taxi to the runway via C and hold short runway 06. Aircraft may require or request to enter the runway via A and backtrack.
+
+  * When runway 24 is active, departing traffic shall be instructed to taxi to the runway via A and hold short runway 24.
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to HP}}
+
+
+==== Taxi In Procedures ====
+
+  * If landing runway 06, turning to be executed at the end of the runway, at the turnpad, and backtracking to vacate right on A.
+
+  * If landing runway 24, pilots should vacate at the end via C. Backtrack may be requested to vacate on A.
+
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to Stand}}
+
+
+{{page>gv-footer#GVSV}}

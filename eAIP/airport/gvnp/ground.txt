@@ -1,0 +1,37 @@
+===== GVNP Ground =====
+
+<code>There is no GVSV_GND position with GVSV_TWR assuming the role of Ground Controller.</code>
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Pushback Approved}}
+
+=== Directions ===
+
+^ Apron            ^ Type ^ Runway ^ Facing ^ Remarks ^
+| Main Apron      | All  | 03     | South  | - |
+| :::             | All  | 21     | North  | - |
+
+==== Taxi Out Procedures ====
+
+  * When runway 03 is active, departing traffic shall be instructed to taxi to the runway via C and A and hold short runway 03.
+  * When runway 21 is active, departing traffic shall be instructed to taxi to the runway via C and B and hold short runway 21.
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to HP}}
+
+
+==== Taxi In Procedures ====
+
+  * If landing runway 03, turning to be executed at the end of the runway, at the turnpad, and backtracking to vacate right on B.
+  * If landing runway 21, turning to be executed at the end of the runway, at the turnpad, and backtracking to vacate left on A.
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to Stand}}
+
+
+{{page>gv-footer#GVNP}}

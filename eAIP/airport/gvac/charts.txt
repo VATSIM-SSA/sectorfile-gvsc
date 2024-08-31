@@ -1,0 +1,10 @@
+===== GVAC Charts =====
+
+Unfortunately, Cape Verde does not provide publicly accessible navigational charts for its airspace or airports.
+
+So, the most we can do at this point is to offer you a link to Google's [[https://www.google.com/search?q=GVAC+Charts|Search Results]].
+
+
+
+
+{{page>gv-footer#GVAC}}

@@ -1,0 +1,13 @@
+==== Cape Verde Airports ====
+
+^ ICAO      ^ Name                   ^ City         ^ Status             ^ Remarks ^
+| [[GVAC]]  | Amilcar Cabral         | Sal          | - | - |
+| [[GVBA]]  | Aristides Pereira Intl | Rabil        | - | - |
+| [[GVMA]]  | Maio                   | Maio         | -             | - |
+| [[GVNP]]  | Nelson Mandela Intl    | Praia        | //In Development// | - |
+| [[GVSF]]  | Fogo Island            | São Filipe   | -             | - |
+| [[GVSN]]  | Sao Nicolau Island     | Preguiça     | -             | - |
+| [[GVSV]]  | Cesaria Evora Intl     | Sao Pedro    | //In Development// | - |
+
+
+{{page>gv-footer#Cape_Verde}}

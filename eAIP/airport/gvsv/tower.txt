@@ -1,0 +1,63 @@
+===== GVSV Tower =====
+
+==== Runway Selection ====
+
+  * The preferred runways at GVSV is runway 06. 
+  * Runway 24 should only be used if the tailwind component is equal or greater than 10 knots.
+
+
+==== Runway Change Operations ====
+
+  * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
+  * If possible, hold aircraft on stand before a runway change operation.
+  * If an aircraft is already taxying on Twy C or A, offer the pilot the option to backtrack the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+
+==== Wake Separation ====
+
+=== Arrivals (nm) ===
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 6 | 4 | ||
+| M | 7 | 5 | 5 | |
+| L | 8 | 6 | 5 | 5 |
+
+=== Departures (min) ===
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 2 | |||
+| M | 3 | 2 | ||
+| L | 3 | 2 | 2 | |
+
+
+==== Missed Approach Procedures ====
+
+==== HIRO ====
+
+==== VFR Operations ====
+
+  * VFR Squawk Codes should be assigned through ES/TopSky.
+
+^ Rwy ^ Turn  ^ Altitude ^ Remarks ^ 
+| 06  | Left  | Up to 1500 AGL | - |
+| 24  | Right | Up to 1500 AGL | - |
+
+  * Caution of High Terrain North of the aerodrome.
+
+=== VFR Circuits ===
+
+=== VFR Departures ===
+
+=== VFR Arrivals ===
+
+=== VFR Transitions ===
+
+=== Visual Reference Points ===
+
+==== Helicopter Operations ====
+
+
+
+{{page>gv-footer#GVSV}}

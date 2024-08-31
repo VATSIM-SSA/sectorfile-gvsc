@@ -1,0 +1,9 @@
+===== GVAC Coordination =====
+
+==== GVAC & GVBA ====
+
+  * When Tower Controllers from both GVAC and [[GVBA]] are online, they should coordinate departures to avoid conflicting traffic when possible.
+
+
+
+{{page>gv-footer#GVAC}}

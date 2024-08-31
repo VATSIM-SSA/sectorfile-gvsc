@@ -1,0 +1,29 @@
+===== GVBA Ground =====
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Pushback Approved}}
+
+=== Directions ===
+
+^ Apron            ^ Type ^ Runway ^ Facing ^ Remarks ^
+| Apron C         | All  | 03     | South  | - |
+| :::             | All  | 21     | North  | - |
+
+==== Taxi Out Procedures ====
+
+=== Phraseology ===
+
+<code>CALLSIGN, taxi holding point NUMBER runway NUMBER, time TIME, report ready for departure.</code>
+
+
+==== Taxi In Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to Stand}}
+
+
+{{page>gv-footer#GVBA}}

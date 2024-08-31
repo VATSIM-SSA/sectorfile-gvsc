@@ -1,0 +1,78 @@
+===== GVNP Approach =====
+
+  * Be advised that DNMM does not have any single Approach Procedure for runways 36L/36R.
+
+==== Approach Tips ====
+
+  * Aircraft on the TYE1N arrival from the West going for runway 18R can be issued the following approach instruction after passing 2 NM East of EBSEX:
+
+<code>RIGHT Heading 150º, descend 2000 ft, QNH ABCD, cleared ILS 18R, report established.</code>
+
+  * Aircraft on eastern arrivals with the last fix OVNIK, going for runway 18R, can be issued the following approach instructions after passing 2 NM West of OVNIK:
+
+<code>LEFT Heading 210º, descend 2000 ft, QNH ABCD, cleared ILS 18R, report established.</code>
+
+==== Arrivals Procedures ====
+
+^ Rwy ^ Fix ^ Arrival ^ Type ^ Track Miles ^ Approach ^ Remarks ^
+| 18R | BUDSI | BUSD1N | RNAV | 72 nm | RNAV via MOLOP | - |
+| ::: | ERSED | ERSE1N | ::: | 101 nm | RNAV via MOLOP | - |
+| ::: | GUMOM | GUMO1N | ::: | 93 nm  | RNAV via MOLOP | - |
+| ::: | EDGOT | EDGO1N | ::: | 98 nm  | RNAV via MOLOP | - |
+| ::: | ETVOV | ETVO1N | ::: | 100 nm | RNAV via MOLOP | - |
+| ::: | ILKEL | ILKE1N | ::: | 72 nm | RNAV via MOLOP | - |
+| ::: | TYE   | TYE1N  | ::: | 77 nm | RNAV via MOLOP | - |
+| 18L | BUDSI | BUDS1M | ::: | 71 nm | RNAV via EDKUV | - |
+| ::: | ERSED | ERSE1M | ::: | 97 nm | RNAV via EDKUV | - |
+| ::: | GUMOM | GUMO1M | ::: | 90 nm  | RNAV via EDKUV | - |
+| ::: | EDGOT | EDGO1M | ::: | 95 nm | RNAV via EDKUV | - |
+
+==== Approach Procedures ====
+
+  * Aircraft being positioned for final approach will be given a heading close to the localizer at a range of at least 8 NM from the runway threshold and at a level below the glide path.
+  * The pilot will be told to complete the turn and to report established on ILS, but at this point if he requests, ATC will give another vector to bring the aircraft on to the localizer.
+  * In order to maintain the correct spacing between aircraft, ATC may deliberately vector the aircraft through the localizer for approach from the other side. Pilots will be warned when this manoeuvre is being given.
+
+^ Rwy ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 18R | VOR DME ILS | 108.10 ILB | 181º | 3.00º | LAG | 1710 ft | - | 
+| ::: | RNAV (GNSS) | - | 181º | 3.00º | EBSEX or OVNIK, MOLOP | 3000 ft | 3500 ft at MOLOP |
+| ::: | VOR DME | 113.70 LAG | 190º | 3.00º | 7 DME LAG | 3000 ft | - |
+| 18L | VOR DME ILS | 108.10 ILA | 181º | 3.00º | LAG | 2300 ft | - |
+| ::: | RNAV (GNSS) | - | 181º | 3.00º | OVNIK, EDKUV | 2000 ft | 3500 ft at OVNIK |
+| ::: | VOR DME | 113.70 LAG | 181º | 3.00º | 7 DME LAG | 2300 ft | - |
+
+==== Holds ====
+
+^ Name ^ STAR ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
+| LAG | - | 3500 ft + | 230 KT | 025º | Left | 1 min | Runway 18R |
+| LAG | - | 3500 ft + | 230 KT | 001º | Left | 1 min | Runway 18L |
+| EBSEX | - | FL050 + | 230 KT | 271º | Left | 1 min | RNAV, Runway 18R |
+| OVNIK | - | 3500 ft + | 230 KT | 056º | Left | 1 min | RNAV, Runway 18L |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 18R | VOR DME ILS | Maintain Runway heading, passing 1000 ft, turn RIGHT climbing to 3500 ft and join VOR holding. | LAG | - |
+| ::: | RNAV (GNSS) | Maintain Runway heading, passing 1000 ft turn RIGHT climbing to FL050 to join holding at EBSEX. | EBSEX | - |
+| ::: | VOR DME | Maintain track 190º heading, passing 1000 ft, turn RIGHT climbing to 3500 ft and join VOR holding. | LAG | - |
+| 18L | VOR DME ILS | Maintain 181º heading, passing 1000 ft, turn RIGHT climbing to 3500 ft and join VOR holding. | LAG | - |
+| ::: | RNAV (GNSS) | Maintain Runway heading, passing 1000 ft, turn LEFT climbing to 3500 ft to join holding at OVNIK | OVNIK | - |
+| ::: | VOR DME | Maintain Runway heading, passing 1000 ft, turn RIGHT climbing to 3500 ft and join VOR holding. | LAG | - |
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| LAG | 0 nm | 25 nm | 0º | 0º | 2500 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| DNIB | Ibadan (Nigeria) | 60 nm | 2400 m | - |
+| DBBB | Cardinal Bernardin Gantin Intl (Cotonou, Benin) | 70 nm | 2377 m | - |
+| DXXX | Gnassingbe Eyadema Intl (Lome, Togo) | 126 nm | 2987 m | - |
+| DNIL | Ilorin (Nigeria) | 140 nm | 3078 m | - |
+
+
+{{page>gv-footer#GVNP}}

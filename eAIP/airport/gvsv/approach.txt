@@ -1,0 +1,75 @@
+===== GVSV Approach =====
+
+==== Approach Tips ====
+
+  * Aircraft on the TYE1N arrival from the West going for runway 18R can be issued the following approach instruction after passing 2 NM East of EBSEX:
+
+<code>RIGHT Heading 150º, descend 2000 ft, QNH ABCD, cleared ILS 18R, report established.</code>
+
+  * Aircraft on eastern arrivals with the last fix OVNIK, going for runway 18R, can be issued the following approach instructions after passing 2 NM West of OVNIK:
+
+<code>LEFT Heading 210º, descend 2000 ft, QNH ABCD, cleared ILS 18R, report established.</code>
+
+==== Arrivals Procedures ====
+
+^ Rwy ^ Fix ^ Arrival ^ Type ^ Track Miles ^ Approach ^ Remarks ^
+| 06  | NEMDO | NEMD1Y | RNAV | 147 nm | RNAV via SV403 | - |
+| ::: | NINAU | NINA1Y | ::: | 63 nm  | RNAV via SV402 | - |
+| ::: | SISAU | SISA1Y | ::: | 83 nm  | RNAV via SV402 | - |
+| ::: | DENER | DENE1Y | ::: | 77 nm  | RNAV via SV403 | - |
+| ::: | EDIPA | EDIP1Y | ::: | 63 nm  | RNAV via SV402 | - |
+| ::: | SNT   | SNT1Y  | ::: | 145 nm | RNAV via SV402 | - |
+| ::: | EVKAS | EVKA1Y | ::: | 77 nm  | RNAV via SV403 | - |
+| 24  | NEMDO | NEMD1Z | RNAV | 98 nm | RNAV via SV502 | - |
+| ::: | NINAU | NINA1Z | ::: | 37 nm  | RNAV via SV501 | - |
+| ::: | SISAU | SISA1Z | ::: | 42 nm  | RNAV via SV501 | - |
+| ::: | DENER | DENE1Z | ::: | 110 nm | RNAV via SV501 | - |
+| ::: | EDIPA | EDIP1Z | ::: | 118 nm | RNAV via SV501 | - |
+| ::: | SNT   | SNT1Z  | ::: | 140 nm | RNAV via SV501 | - |
+| ::: | EVKAS | EVKA1Z | ::: | 82 nm  | RNAV via SV502 | - |
+
+  * NDB Arrivals to the SVT NDB are possible from EVKAS, LININ, NEMDO, NINAU, SISAU, SNT and DENER.
+
+==== Approach Procedures ====
+
+  * On RNAV approaches, Pilots will be given the Approach Clearance for the IAF fixes with the airfield QNH.
+
+^ Rwy ^ Approach    ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 06  | RNAV (GNSS) | - | 078º | 3.00º | SV401, SV402, SV403 | 2500 ft | 5300 ft at SV403 |
+| ::: | NDB LOC     | 109.70 SP | 064º | 3.00º | SVT | 2100 ft | 3500 ft at SVT |
+| ::: | NDB         | 333 SVT | 059º | 3.00º | SVT | 2100 ft | 3500 ft at SVT |
+| 24  | RNAV (GNSS) | - | 243º | 3.00º | SV501, SV502 | 2500 ft, 4000 ft | - |
+
+==== Holds ====
+
+^ Name ^ STAR ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
+| SVT | - | 3500 ft + | 230 KT | 256º | Right | 1 min | NDB |
+| SVT | - | 3500 ft + | 230 KT | 261º | Right | 1 min | NDB LOC |
+| SV403 | - | 5300 + | 230 KT | 078º | Right | 1 min | RNAV, Runway 06 |
+| SV501 | - | 4000 ft + | 230 KT | 313º | Right | 1 min | RNAV, Runway 24 |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 18R | RNAV (GNSS) | Climb direct SV404, turn LEFT (Max 185 kt) to SV405, turn LEFT (Max 220 kt) to SV406, turn LEFT (Max 220 kt) to SV403 and hold at 5300 ft | SV403 | - |
+| ::: | NDB LOC | Climb on 064º to 3500 ft, then turn LEFT direct to SVT NDB and hold | SVT | - |
+| ::: | NDB | Climb on 071º to 3500 ft, then turn LEFT direct to SVT NDB and hold | SVT | - |
+| 24  | RNAV (GNSS) | Climb direct SV504, turn LEFT (Max 185 kt) to SV505, turn LEFT to SV506, turn LEFT to SV501 and hold at 4000 ft | SV501 | - |
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| SVT | 0 nm | 25 nm | 049º | 279º | 3500 ft | - |
+| SVT | 0 nm | 25 nm | 279º | 049º | 8500 ft | - |
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| GVAC | Sal (Cape Verde) | 131 nm | 3000 m | - |
+| GVBA | Boavista (Cape Verde) | 150 nm | 2100 m | - |
+| GVNP | Praia (Cape Verde) | 151 nm | 2100 m | - |
+| GOBD | Dakar-Diass (Senegal) | 599 nm | 3500 m | - |
+
+
+{{page>gv-footer#GVSV}}

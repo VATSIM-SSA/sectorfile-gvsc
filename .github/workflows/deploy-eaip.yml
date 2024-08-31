@@ -1,0 +1,26 @@
+on:
+  push:
+    branches:
+      - main
+name: Deploy eAIP to Krystal FTP
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v3
+
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: 141.98.26.4
+          username: ${{ secrets.EAIP_FTP_USER }}
+          password: ${{ secrets.EAIP_FTP_PASSWORD }}
+          local-dir: "eAIP/"
+          state-name: "eAIP/.ftp-deploy-sync-state.json"
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            .ftp-deploy-sync-state.json

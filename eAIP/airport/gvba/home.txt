@@ -1,0 +1,6 @@
+===== GVBA |  Aristides Pereira Intl | Rabil, Cape Verde =====
+
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
+
+
+{{page>gv-footer#GVBA}}

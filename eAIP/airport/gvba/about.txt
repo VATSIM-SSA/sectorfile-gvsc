@@ -1,0 +1,50 @@
+===== GVBA Information =====
+
+**Aristides Pereira International Airport** is an airport in [[cape_verde|Cape Verde]] located on the island of Boa Vista, about 5 km southeast of the island capital Sal Rei. It is the third-busiest airport in the country. 
+
+For more information, please visit the airport page on [[https://en.wikipedia.org/wiki/Aristides_Pereira_International_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | GVBA |
+| IATA                  | BVC |
+| Elevation             | 91 ft |
+| Transition Altitude   | 7000 ft |
+| Transition Level      | By ATC |
+| Mag Variation         | 10º W |
+| Coordinate            | [[https://geohack.toolforge.org/geohack.php?pagename=Blaise_Diagne_International_Airport&params=14_40_16_N_17_4_1_W_region:SN_type:airport&title=Blaise+Diagne+International+Airport|14°40′16″N 17°4′1″W]] |
+| Site                  | [[http://www.asa.cv/aeroportos/aeroporto-da-boavista/]] |
+
+
+==== Runways ====
+
+^ Runway   ^ Heading   ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m)   ^ Remarks ^
+| 03       | 027º      | 2100      | 2100      | 2100      | 2100      | - |
+| 21       | 207º      | 2100      | 2100      | 2100      | 2100      | - |
+
+==== Aprons ====
+
+^ Apron Type           ^ Code  ^ Stands    ^ Entry / Exit  ^ Remarks ^
+| Apron C              | -     | 1-5       | A-B           | - |
+
+==== Positions & Frequencies ====
+
+^ Position      ^ Callsign          ^ Frequency ^ Remarks ^
+| GVBA_ATIS     | Boavista ATIS    | 123.800   | - |
+| GVSC_DEL      | Sal Delivery     | 122.100   | //Fictional Combined Delivery// |
+| GVBA_TWR      | Boavista Tower   | 118.100   | - |
+| GVSC_APP      | Sal Approach     | 124.700   | - |
+| GVSC_CTR      | Sal Control      | 127.100   | - |
+
+==== Airspace ====
+
+^ Airspace       ^ Class ^ Owner    ^ Limits         ^ Remarks ^
+| Sal CTR       | C     | GVAC_TWR | GND - FL085    | - |
+| Sal TMA       | C     | GVSC_APP | A007 - FL195   | - |
+| Sal TMA       | A     | GVSC_APP | FL195 - FL245  | - |
+| Sal Oceanic   | A     | GVSC_CTR | FL195 - FL245  | FIR |
+| Sal Oceanic   | A     | GVSC_CTR | FL245 - UNLTD  | - |
+
+
+{{page>gv-footer#GVBA}}

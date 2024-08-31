@@ -1,0 +1,38 @@
+===== GVAC Ground =====
+
+<code>The GVAC_GND position is only available in predefined Events.</code>
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Pushback Approved}}
+
+=== Directions ===
+
+^ Apron            ^ Type ^ Runway ^ Facing ^ Remarks ^
+| Main Apron      | All  | 01     | South  | - |
+| :::             | All  | 19     | North  | - |
+
+==== Taxi Out Procedures ====
+
+  * When runway 01 is active, departing traffic shall be instructed to taxi to the runway via B, A1, and hold short A1, allowing Tower Controllers to issue further instructions to taxi and backtrack to holding point F based on preferential departure separation.
+
+  * When runway 19 is active, departing traffic shall be instructed to taxi to the runway via C and contact Tower after passing D, allowing Tower Controllers to issue further instructions while approaching the holding point (A4).
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to HP}}
+
+
+==== Taxi In Procedures ====
+
+  * In high traffic situations, in order to maintain the high speed exits clear of traffic, Tower Controllers may issue an initial taxi instruction to arrival traffic before handover to Ground Controllers.
+
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to Stand}}
+
+
+{{page>gv-footer#GVAC}}
