@@ -1,39 +1,39 @@
 ==== Cape Verde ====
 ----
 
-//This page is a subsection of the [[Cape Verde]] country page.//
+//This page is a subsection of the [[country:cape-verde:home|Cape Verde]] country page.//
 
 ==== GVSC ====
 
 ----
 
-  * [[GVSC]] Sal FIR v0.1
-  * [[GVAC]] [[GVBA]] [[GVNP]] [[GVSV]]
+  * [[airspace:gvsc:home|GVSC]] Sal FIR v0.1
+  * [[airport:gvac:home|GVAC]] [[airport:gvba:home|GVBA]] [[airport:gvnp:home|GVNP]] [[airport:gvsv:home|GVSV]]
 
 ==== GVAC ====
 
 ----
 
-  * [[GVAC]] Amilcar Cabral v0.1
-  * [[GVSC]] Sal FIR | [[GVBA]] [[GVNP]] [[GVSV]]
+  * [[airport:gvac:home|GVAC]] Amilcar Cabral v0.1
+  * [[airspace:gvsc:home|GVSC]] Sal FIR | [[airport:gvba:home|GVBA]] [[airport:gvnp:home|GVNP]] [[airport:gvsv:home|GVSV]]
 
 ==== GVBA ====
 
 ----
 
-  * [[GVBA]] Aristides Pereira Intl v0.1
-  * [[GVSC]] Sal FIR | [[GVAC]] [[GVNP]] [[GVSV]]
+  * [[airport:gvba:home|GVBA]] Aristides Pereira Intl v0.1
+  * [[airspace:gvsc:home|GVSC]] Sal FIR | [[airport:gvac:home|GVAC]] [[airport:gvnp:home|GVNP]] [[airport:gvsv:home|GVSV]]
 
 ==== GVNP ====
 
 ----
 
-  * [[GVNP]] Nelson Mandela Intl v0.1
-  * [[GVSC]] Sal FIR | [[GVAC]] [[GVBA]] [[GVSV]]
+  * [[airport:gvnp:home|GVNP]] Nelson Mandela Intl v0.1
+  * [[airspace:gvsc:home|GVSC]] Sal FIR | [[airport:gvac:home|GVAC]] [[airport:gvba:home|GVBA]] [[airport:gvsv:home|GVSV]]
 
 ==== GVSV ====
 
 ----
 
-  * [[GVSV]] Cesaria Evora Intl v0.1
-  * [[GVSC]] Sal FIR | [[GVAC]] [[GVBA]] [[GVNP]]
+  * [[airport:gvsv:home|GVSV]] Cesaria Evora Intl v0.1
+  * [[airspace:gvsc:home|GVSC]] Sal FIR | [[airport:gvac:home|GVAC]] [[airport:gvba:home|GVBA]] [[airport:gvnp:home|GVNP]]

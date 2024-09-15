@@ -1,6 +1,6 @@
 ===== GVBA Information =====
 
-**Aristides Pereira International Airport** is an airport in [[cape_verde|Cape Verde]] located on the island of Boa Vista, about 5 km southeast of the island capital Sal Rei. It is the third-busiest airport in the country. 
+**Aristides Pereira International Airport** is an airport in [[country:cape-verde:home|Cape Verde]] located on the island of Boa Vista, about 5 km southeast of the island capital Sal Rei. It is the third-busiest airport in the country. 
 
 For more information, please visit the airport page on [[https://en.wikipedia.org/wiki/Aristides_Pereira_International_Airport|Wikipedia]].
 

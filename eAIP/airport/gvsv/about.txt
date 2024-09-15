@@ -1,6 +1,6 @@
 ===== GVSV Information =====
 
-**Cesária Évora Airport** is Cape Verde's fourth-busiest airport (after [[gvac|Sal]], [[gvnp|Praia]], and [[gvba|Boavista]]), located on the island of São Vicente, nearly 5 kilometres (3.1 mi) from the centre of Mindelo. It is located in the valley area in the west of the island and is north of the village of São Pedro.
+**Cesária Évora Airport** is Cape Verde's fourth-busiest airport (after [[airport:gvac:home|Sal]], [[airport:gvnp:home|Praia]], and [[airport:gvba:home|Boavista]]), located on the island of São Vicente, nearly 5 kilometres (3.1 mi) from the centre of Mindelo. It is located in the valley area in the west of the island and is north of the village of São Pedro.
 
 
 ==== Aerodrome Data ====

@@ -5,13 +5,13 @@
 ==== Ground Layouts ====
 
 ^ Aiport    ^ Status ^
-| [[GVAC]]  | Available |
-| [[GVBA]]  | Available |
-| [[GVMA]]  | Available |
-| [[GVNP]]  | Available |
-| [[GVSF]]  | Available |
-| [[GVSN]]  | Available |
-| [[GVSV]]  | Available |
+| [[airport:gvac:home|GVAC]]  | Available |
+| [[airport:gvba:home|GVBA]]  | Available |
+| [[airport:gvma:home|GVMA]]  | Available |
+| [[airport:gvnp:home|GVNP]]  | Available |
+| [[airport:gvsf:home|GVSF]]  | Available |
+| [[airport:gvsn:home|GVSN]]  | Available |
+| [[airport:gvsv:home|GVSV]]  | Available |
 
 ==== TopSky ====
 
