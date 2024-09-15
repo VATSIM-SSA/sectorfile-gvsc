@@ -4,7 +4,7 @@
 
 ==== Airport Coverage ====
 
-Sal covers the following airports:
+ * Sal covers the following airports:
 
 === Cape Verde ===
 
