@@ -1,0 +1,59 @@
+===== GVNP Tower =====
+
+==== Runway Selection ====
+  
+  * The preferred Runway at GVNP is Runway 03 as the majority of the time the wind favors Runway 03. 
+
+==== Runway Change Operations ====
+
+  * Runway changes must be coordinate with existing TWR, (DEP) and APP controllers.
+  * If possible, hold aircraft on stand before a runway change operation.
+  * If an aircraft is already taxing on a taxiway opposite to the departure runway, coordinate with (DEP) and APP controllers to place that aircraft for the runway its headed for.
+  * If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+
+==== Wake Separation ====
+
+=== Arrivals (nm) ===
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 6 | 4 | ||
+| M | 7 | 5 | 5 | |
+| L | 8 | 6 | 5 | 5 |
+
+=== Departures (min) ===
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 2 | |||
+| M | 3 | 2 | ||
+| L | 3 | 2 | 2 | |
+
+
+==== Missed Approach Procedures ====
+
+==== HIRO ====
+
+==== VFR Operations ====
+
+  * VFR Squawk Codes should be assigned through ES/TopSky.
+
+^ Rwy ^ Turn  ^ Altitude       ^ Remarks ^ 
+| 03 | Left  | Up to 1500 AGL | - |
+| 21 | Right | Up to 1500 AGL | - |
+
+=== VFR Circuits ===
+
+=== VFR Departures ===
+
+=== VFR Arrivals ===
+
+=== VFR Transitions ===
+
+=== Visual Reference Points ===
+
+==== Helicopter Operations ====
+
+
+
+{{page>gv-footer#GVNP}}

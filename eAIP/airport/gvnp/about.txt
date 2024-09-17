@@ -1,0 +1,48 @@
+===== GVNP Information =====
+
+**Nelson Mandela International Airport**, also known as Praia International Airport, is the airport of Santiago Island in Cape Verde. It was opened in October 2005, replacing the old Francisco Mendes International Airport.
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | GVNP |
+| IATA                  | RAI |
+| Elevation             | 324 ft |
+| Transition Altitude   | 7000 ft |
+| Transition Level      | By ATC |
+| Mag Variation         | 11º W  |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Nelson_Mandela_International_Airport&params=14_55_27.12_N_23_29_38.04_W_type:airport_region:CV|14°55′27.12″N 23°29′38.04″W]] |
+| Site | [[http://www.asa.cv/aeroportos/aeroporto-da-praia/]] |
+
+
+==== Runways ====
+
+^ Runway   ^ Heading   ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m)   ^ Remarks ^
+| 03       | 033º      | 2005      | 2005      | 2005      | 2005      | - |
+| 21       | 213º      | 2005      | 2005      | 2005      | 2005      | - |
+
+==== Aprons ====
+
+^ Apron Type       ^ Code  ^ Stands ^ Entry / Exit  ^ Remarks ^
+| Main Apron       | -     | 1-8A   | A-B           | - |
+
+==== Positions & Frequencies ====
+
+^ Position       ^ Callsign      ^ Frequency ^ Remarks ^
+| GVNP_ATIS     | Lagos ATIS    | 127.700   | - |
+| GVSC_DEL      | Sal Clearance | -.-       | //SSA Events Only// |
+| GVNP_TWR      | Praia Tower   | 118.200   | - |
+| GVSC_APP      | Sal Approach  | 126.400   | - |
+| GVSC_CTR      | Sal Control   | 127.100   | - |
+
+==== Airspace ====
+
+^ Airspace       ^ Class ^ Owner    ^ Limits         ^ Remarks ^
+| Praia CTR     | C     | GVNP_TWR | GND - FL085    | - |
+| Sal TMA       | C     | GVSC_APP | A007 - FL195   | - |
+| Sal TMA       | A     | GVSC_APP | FL195 - FL245  | - |
+| Sal Oceanic   | A     | GVSC_CTR | FL195 - FL245  | FIR |
+| Sal Oceanic   | A     | GVSC_CTR | FL245 - UNLTD  | - |
+
+
+{{page>gv-footer#GVNP}}

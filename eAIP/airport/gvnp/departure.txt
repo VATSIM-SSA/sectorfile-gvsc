@@ -1,0 +1,11 @@
+===== GVNP Departure =====
+
+  * Departures at GVNP should be coordinated with GVSC_APP, particularly if the flight is domestic.
+
+
+==== Departure Procedures ====
+
+  * All aircraft are required to fly the assigned SID given by ATC. Controllers may issue continuous climb instructions to FL245. 
+
+
+{{page>gv-footer#GVNP}}

@@ -1,0 +1,29 @@
+===== GVNP Pilot Briefing =====
+
+  * Pilots taking part in events that depart from or arrive to GVNP should make themselves familiar with this briefing page as well as with all existing charts.
+
+==== Overview ====
+
+  * Be aware that there is a very limited number of parking positions at GVNP. If participating in an event, please review available stands and only connect when necessary to avoid making parking stands unavailable.
+
+==== Departure Briefing ====
+
+=== Clearance Delivery ===
+
+  * GVNP_TWR will be responsible for Clearance Delivery unless GVSC_DEL is online.
+  * Expect departure from runway 03. Please comply with initial climb altitudes and departure procedures.
+
+  * Oceanic Clearances are not required at Sal Oceanic.
+
+==== Arrival Briefing ====
+
+=== Arrivals and Approaches ===
+
+  * Preferred approaches to GVNP are VOR DME.
+
+=== Parking and Ground Operations ===
+
+  * Please vacate the runway when possible. Tower will provide taxi instructions to the aprons. During high traffic events, after parking on stand, please disconnect so we can continue to instruct aircraft to stands.
+
+
+{{page>gv-footer#GVNP}}

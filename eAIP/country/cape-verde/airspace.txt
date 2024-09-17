@@ -1,0 +1,8 @@
+==== Cape Verde Airspace ====
+
+^ ICAO  ^ Name  ^ SSA Code  ^ Type   ^ Remarks ^
+| GVSC  | Sal   | [[airspace:gvsc:home|GVSC]] | -       | - |
+
+
+
+{{page>gv-footer#Cape Verde}}

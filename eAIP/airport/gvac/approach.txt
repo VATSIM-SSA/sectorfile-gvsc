@@ -1,0 +1,60 @@
+===== GVAC Approach =====
+
+  * Be advised that GVAC does not have any ILS Approach Procedure for runway 19.
+
+==== Approach Tips ====
+
+==== Arrivals Procedures ====
+
+^ Rwy    ^ Fix   ^ Arrival ^ Type ^ Track Miles ^ Approach    ^ Remarks ^
+| All    | AGTIL | AGTI1S  | VOR  | 188 nm      | ILS via CVS | - |
+| :::    | BULVO | BULV1S  | :::  | 184 nm      | ILS via CVS | - |
+| :::    | KESIK | KESI1S  | :::  | 141 nm      | ILS via CVS | - |
+| :::    | NCL   | NCL1S   | :::  | 77 nm       | ILS via CVS | - |
+| :::    | NINAU | NINA1S  | :::  | 76 nm       | ILS via CVS | - |
+| :::    | PINPO | PINP1S  | :::  | 80 nm       | ILS via CVS | - |
+| :::    | PISPU | PISP1S  | :::  | 80 nm       | ILS via CVS | - |
+| :::    | POLMO | BUDS1M  | :::  | 80 nm       | ILS via CVS | - |
+| :::    | RAMOL | RAMO1S  | :::  | 86 nm       | ILS via CVS | - |
+| :::    | SNT   | SNT1S   | :::  | 112 nm      | ILS via CVS | - |
+
+==== Approach Procedures ====
+
+  * Approach Controllers to clear aircraft for the VOR ILS 01 before CVS and to request pilots to report inbound leg.
+  * If vectoring is required, please vector aircraft to the approach WEST of the island.
+
+^ Rwy  ^ Approach   ^ Frequency  ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 01  | VOR ILS     | 109.90 SL  | 011º   | 3.00º    | CVS | 1500 ft  | - | 
+| ::: | VOR DME     | 115.30 CVS | 011º   | 2.86º    | CVS | 1500 ft  | - | 
+| 19  | VOR DME     | 115.30 CVS | 191º   | 2.86º    | CVS | 2400 ft  | - | 
+
+==== Holds ====
+
+^ Name ^ STAR ^ Altitude  ^ Speed (IAS) ^ Inbound CRS    ^ Turn  ^ Leg Time  ^ Remarks ^
+| CVS  | -    | 2500 ft + | 230 KT      | 191º           | Right | 1 min     | Runway 01 |
+| CVS  | :::  | 2500 ft + | 230 KT      | 011º           | Left  | 1 min     | Runway 19 |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy  ^ Approach ^ Missed Approach Procedure                                           ^ Hold ^ Remarks ^
+| 01  | VOR ILS  | Climb to 2500 ft, maintain Runway Heading to D8.3 CVS, then turn LEFT back to CVS and hold | -    | - |
+| ::: | VOR DME  | Climb on track 001º to 2500 ft, then turn LEFT to CVS and hold.      | CVS  | - |
+| 19  | VOR DME  | Climb on track 191º to 2500 ft, then turn RIGHT to CVS and hold.     | CVS  | - |
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA  ^ Remarks ^
+| CVS       | 0 nm         | 25 nm        | 090º        | 270º      | 1700 ft | - |
+| CVS       | 0 nm         | 25 nm        | 270º        | 180º      | 2500 ft | - |
+| CVS       | 0 nm         | 25 nm        | 180º        | 090º      | 2000 ft | - |
+
+==== Diversions ====
+
+^ ICAO  ^ Name                   ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| GVBA  | Rabil (Cape Verde)     | 30 nm    | 2073 m      | -            |
+| GVNP  | Praia (Cape Verde)     | 115 nm   | 2073 m      | -            |
+| GVSV  | Sao Pedro (Cape Verde) | 120 nm   | 1981 m      | -            |
+
+
+{{page>gv-footer#GVAC}}

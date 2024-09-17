@@ -1,0 +1,6 @@
+===== GVSC | Sal | GVSC =====
+
+{{tabembed>about|About,classification|Classification,sectors|Sectors,rules|Rules,transitions|TA/TL,loa|Agreements,sectorfile|Sector File,alias:std|Alias,oceanic:eur-sam|EUR-SAM}}
+
+
+{{page>gv-footer#GVSC}}

@@ -1,0 +1,13 @@
+===== GVNP Coordination =====
+
+==== Delivery ====
+
+  * During high traffic events, Sal Delivery (Combined) will be responsible for Clearance Delivery at GVNP.
+
+==== Approach ====
+
+  * If GVSC_APP or GVSC_CTR are online, coordinate release of traffic, particularly for domestic flights.
+
+
+
+{{page>gv-footer#GVNP}}

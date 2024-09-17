@@ -1,0 +1,68 @@
+===== GVBA Approach =====
+
+  * Be advised that GVBA does not have any ILS Approaches for both Runways.
+
+==== Approach Tips ====
+
+Nil.
+
+==== Arrivals Procedures ====
+
+^ Rwy    ^ Fix   ^ Arrival ^ Type      ^ Track Miles ^ Approach       ^ Remarks ^
+| 03    | NINAU | NINA1P  | RNAV      | 98 nm       | RNAV via BA502 | - |
+| :::   | PINPO | PINP1P  | :::       | 118 nm      | RNAV via BA503 | - |
+| :::   | PISPU | PISP1P  | :::       | 137 nm      | RNAV via BA503 | - |
+| :::   | POLMO | POLM1P  | :::       | 86 nm       | RNAV via BA503 | - |
+| :::   | RAMOL | RAMO1P  | :::       | 73 nm       | RNAV via BA503 | - |
+| :::   | SISAU | SISA1P  | :::       | 88 nm       | RNAV via BA502 | - |
+| :::   | SNT   | SNT1P   | :::       | 71 nm       | RNAV via BA501 | - |
+| 21    | NINAU | NINA1Q  | RNAV      | 98 nm       | RNAV via BA506 | - |
+| :::   | PINPO | PINP1Q  | :::       | 106 nm      | RNAV via BA504 | - |
+| :::   | PISPU | PISP1Q  | :::       | 113 nm      | RNAV via BA504 | - |
+| :::   | POLMO | POLM1Q  | :::       | 79 nm       | RNAV via BA505 | - |
+| :::   | RAMOL | RAMO1Q  | :::       | 77 nm       | RNAV via BA505 | - |
+| :::   | SISAU | SISA1Q  | :::       | 97 nm       | RNAV via BA506 | - |
+| :::   | SNT   | SNT1Q   | :::       | 114 nm      | RNAV via BA506 | - |
+| All   | NCL   | NCL1R   | NDB       | 84 nm       | NDB 19         | - |
+| :::   | NINAU | NINA1R  | :::       | 90 nm       | :::            | - |
+| :::   | PINPO | PINP1R  | :::       | 106 nm      | :::            | - |
+| :::   | PISPU | PISP1R  | :::       | 111 nm      | :::            | - |
+| :::   | SISAU | SISA1R  | :::       | 85 nm       | :::            | - |
+| :::   | SNT   | SNT1R   | :::       | 80 nm       | :::            | - |
+
+==== Approach Procedures ====
+
+  * The pilots shall be given RNAV Clearance to the IAF with QNH confirmation.
+
+^ Rwy ^ Approach    ^ Frequency  ^ Course ^ GP Angle ^ IAF               ^ Platform ^ Remarks ^
+| 03  | RNAV (GNSS) | -          | 027º   | 3.00º    | BA501,BA502,BA503 | 2500 ft  | - | 
+| 21  | RNAV (GNSS) | -          | 207º   | 3.00º    | BA504,BA505,BA506 | 2500 ft  | - | 
+| ::: | NDB         | 341 BVT    | 203º   | 3.00º    | BVT               | 1800 ft  | //4º Offset. Outbound Heading from NDB related to Speed.// | 
+
+==== Holds ====
+
+^ Name  ^ STAR ^ Altitude  ^ Speed (IAS) ^ Inbound CRS    ^ Turn  ^ Leg Time  ^ Remarks ^
+| BVT   | -    | 2500 ft + | 230 KT      | 002º           | Right | 1 min     | - |
+| BA502 | -    | 2500 ft + | 230 KT      | 117º           | Right | 1 min     | RNAV Rwy 03 |
+| BA506 | -    | 2500 ft + | 230 KT      | 117º           | Left  | 1 min     | RNAV Rwy 19 |
+
+==== Missed Approach Procedures ====
+
+^ Rwy  ^ Approach    ^ Missed Approach Procedure                                                                              ^ Hold  ^ Remarks ^
+| 03  | RNAV (GNSS) | Direct to BA520, then turn LEFT direct to BA502 and hold                                                | BA502 | - |
+| 21  | RNAV (GNSS) | Climb on track 207º to at or above 640 ft, then turn RIGHT (MAX 185 KT) direct to BA530, then turn RIGHT direct to BA506 and hold | BA506 | -
+| ::: | NDB         | Turn right 293º, then turn LEFT 248º from NDB. Climb to 2500 ft, then turn RIGHT direct to NDB and hold | BVT   | - |
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA     ^ Remarks ^
+| BVT       | 0 nm         | 25 nm        | 000º        | 000º      | 2500 ft | - |
+
+==== Diversions ====
+
+^ ICAO  ^ Name            ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| GVAC  | Amilcar Cabral  |  nm      | 2073 m      | -            |
+| GVNP  | Praia           |  nm      | 2073 m      | -            |
+| GVSV  | Sao Pedro       |  nm      | 1981 m      | -            |
+
+{{page>gv-footer#GVBA}}

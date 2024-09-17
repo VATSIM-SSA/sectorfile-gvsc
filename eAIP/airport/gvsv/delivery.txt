@@ -1,0 +1,58 @@
+===== GVSV Delivery =====
+
+<code>During high traffic events, GVSC_DEL may be open to coordinate Clearance Delivery across all GVSC airports.</code>
+
+==== Phraseology ====
+
+<code>CALLSIGN, cleared to DESTINATION as filed, via DEPARTURE_PROCEDURE runway NUMBER, initial climb ALTITUDE, squawk NUMBER.</code>
+
+==== IFR Clearance Rules ====
+
+* We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+
+==== Cruise Level Rules ====
+
+  * Cape Verde Airspace operates with the following RVSM standard table of Cruising Levels.
+
+  * VFR flights are not allowed over and above the flight level 150 (DOC 7030 ICAO).
+
+{{page>icao-cruiselevels#RVSM Feet}}
+
+
+==== Departure Procedures & Initial Climbs ====
+
+^ RWY ^ Fix   ^ Departure ^ Type ^ Initial Climb ^ Remarks^
+| 06  | KESIK | KESI1U | RNAV Departure | FL100 | - |
+| ::: | LININ | LINI1U | ::: | FL100 | - |
+| ::: | MOPAC | MOPA1U | ::: | FL100 | - |
+| ::: | NEMDO | NEMD1U | ::: | FL100 | - |
+| ::: | NINAU | NINA1U | ::: | FL100 | - |
+| ::: | DENER | DENE1U | ::: | FL100 | - |
+| ::: | EDIPA | EDIP1U | ::: | FL100 | - |
+| ::: | SISAU | SISA1U | ::: | FL100 | - |
+| ::: | EVKAS | EVKA1U | ::: | FL100 | - |
+| ::: | EDIPA | EDIP2G | VOR Departures | FL100 | - |
+| ::: | EVKAS | EVKA2G | ::: | FL100 | - |
+| ::: | MOPAC | MOPA2G | ::: | FL100 | - |
+| ::: | NEMDO | NEMD2G | ::: | FL100 | - |
+| ::: | NINAU | NINA2G | ::: | FL100 | - |
+| ::: | SNT   | SNT2G  | ::: | FL100 | - |
+| 24  | KESIK | KESI1X | RNAV Departure | FL100 | - |
+| ::: | LININ | LINI1X | ::: | FL100 | - |
+| ::: | MOPAC | MOPA1X | ::: | FL100 | - |
+| ::: | NEMDO | NEMD1X | ::: | FL100 | - |
+| ::: | NINAU | NINA1X | ::: | FL100 | - |
+| ::: | DENER | DENE1X | ::: | FL100 | - |
+| ::: | EDIPA | EDIP1X | ::: | FL100 | - |
+| ::: | SISAU | SISA1X | ::: | FL100 | - |
+| ::: | EVKAS | EVKA1X | ::: | FL100 | - |
+| ::: | EDIPA | EDIP2H | VOR Departures | FL100 | - |
+| ::: | EVKAS | EVKA2H | ::: | FL100 | - |
+| ::: | MOPAC | MOPA2H | ::: | FL100 | - |
+| ::: | NEMDO | NEMD2H | ::: | FL100 | - |
+| ::: | NINAU | NINA2H | ::: | FL100 | - |
+| ::: | SISAU | SISA2H | ::: | FL100 | - |
+| ::: | SNT   | SNT2H  | ::: | FL100 | - |
+
+{{page>gv-footer#GVSV}}

@@ -1,0 +1,53 @@
+===== GVSV Information =====
+
+**Cesária Évora Airport** is Cape Verde's fourth-busiest airport (after [[airport:gvac:home|Sal]], [[airport:gvnp:home|Praia]], and [[airport:gvba:home|Boavista]]), located on the island of São Vicente, nearly 5 kilometres (3.1 mi) from the centre of Mindelo. It is located in the valley area in the west of the island and is north of the village of São Pedro.
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | GVSV |
+| IATA                  | VXE |
+| Elevation             | 101 ft |
+| Transition Altitude   | 7000 ft |
+| Transition Level      | FL80 |
+| Mag Variation         | 10º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Ces%C3%A1ria_%C3%89vora_Airport&params=16_49_59.16_N_25_3_24.84_W_region:CV_type:airport|16°49′59.16″N 25°3′24.84″W]] |
+| Site | [[https://www.asa.cv/]] |
+
+
+==== Runways ====
+
+^ Runway    ^ Heading   ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m)   ^ Remarks ^
+| 06        | 064º      | 2000      | 2100      | 2000      | 2000      | - |
+| 24        | 244º      | 2000      | 2150      | 2000      | 2000      | - |
+
+
+==== Aprons ====
+
+^ Apron Type ^ Code  ^ Stands ^ Entry / Exit  ^ Remarks ^
+| Apron 1    | -     | 5-7    | Twy B   | - |
+| Apron 2    | -     | 3-4    | Twy B   | - |
+| Apron 3    | -     | 1-2    | Twy C   | - |
+
+
+
+==== Positions & Frequencies ====
+
+^ Position      ^ Callsign          ^ Frequency ^ Remarks ^
+| GVSV_ATIS     | San Vicente ATIS  | 127.500   | - |
+| GVSC_DEL      | Sal Delivery      | 122.100   | //SSA Events Only// |
+| GVSV_TWR      | San Vicente Tower | 118.400   | - |
+| GVSC_APP      | Sal Approach      | 126.400   | - |
+| GVSC_CTR      | Sal Control       | 127.100   | - |
+
+
+==== Airspace ====
+
+^ Airspace        ^ Class ^ Owner ^ Limits        ^ Remarks ^
+| Sao Vicente CTR | C | GVSV_TWR  | GND - FL105   | - |
+| Sal TMA         | B | GVSC_APP  | A007 - FL195  | - |
+| Sal TMA         | A | GVSC_APP  | FL195 - FL245 | - |
+| Sal FIR/UIR     | A | GVSC_CTR  | FL245 - UNLTD | - |
+
+
+{{page>gv-footer#GVSV}}

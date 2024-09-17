@@ -1,0 +1,70 @@
+===== GVBA Delivery =====
+
+<code>A combined Sal Delivery (GVSC_DEL) is available only for predefined events.</code>
+
+==== IFR Clearance Rules ====
+
+* We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+
+==== Cruise Level Rules ====
+
+  * Sal's Airspace operates with the following RVSM standard table of Cruising Levels.
+
+  * VFR flights are not allowed over and above flight level 150 (DOC 7030 ICAO).
+
+{{page>icao-cruiselevels#RVSM Feet}}
+
+
+==== Departure Procedures & Initial Climbs ====
+
+^ RWY  ^ Fix   ^ Departure ^ Type           ^ Initial Climb ^ Remarks^
+| 03  | BA367 | BA671J    | RNAV Departure | FL085         | - |
+| ::: | CVS   | CVS1J     | :::            | FL085         | - |
+| ::: | :::   | :::       | :::            | 6000 ft       | //ADES GVAC Only// |
+| ::: | PINPO | PINP1J    | :::            | FL085         | - |
+| ::: | PISPU | PISP1J    | :::            | FL085         | - |
+| ::: | BA366 | BA661J    | :::            | FL085         | - |
+| ::: | POLMO | POLM1J    | :::            | FL085         | - |
+| ::: | RAMOL | RAMO1J    | :::            | FL085         | - |
+| ::: | SONVA | SONV1J    | :::            | FL085         | - |
+| ::: | BA364 | BA641J    | :::            | FL085         | - |
+| ::: | DENER | DENE1J    | :::            | FL085         | - |
+| ::: | SNT   | SNT1J     | :::            | FL085         | - |
+| ::: | EDIPA | EDIP1J    | :::            | FL085         | - |
+| ::: | NINAU | NINA1J    | :::            | FL085         | - |
+| ::: | SISAU | SISA1J    | :::            | FL085         | - |
+| ::: | EVKAS | EVKA1J    | :::            | FL085         | - |
+| ::: | KESIK | KESI1J    | :::            | FL085         | - |
+| ::: | LININ | LINI1J    | :::            | FL085         | - |
+| ::: | MOPAC | MOPA1J    | :::            | FL085         | - |
+| ::: | NEMDO | NEMD1J    | :::            | FL085         | - |
+| ::: | PINPO | PINP1C    | Non-RNAV Dep   | FL085         | - |
+| ::: | PISPU | PISP1C    | :::            | FL085         | - |
+| ::: | SNT   | SNT1C     | :::            | FL085         | - |
+| ::: | NCL   | NCL1C     | :::            | FL085         | - |
+| ::: | SVT   | SVT1C     | :::            | FL085         | - |
+| 21  | CVS   | CVS1L     | RNAV Departure | FL085         | - |
+| ::: | CVS   | :::       | :::            | 6000 ft       | //ADES GVAC Only// |
+| ::: | PINPO | PINP1L    | :::            | FL085         | - |
+| ::: | PISPU | PISP1L    | :::            | FL085         | - |
+| ::: | POLMO | POLM1L    | :::            | FL085         | - |
+| ::: | RAMOL | RAMO1L    | :::            | FL085         | - |
+| ::: | SONVA | SONV1L    | :::            | FL085         | - |
+| ::: | BA364 | BA641L    | :::            | FL085         | - |
+| ::: | BA370 | BA701L    | :::            | FL085         | - |
+| ::: | DENER | DENE1L    | :::            | FL085         | - |
+| ::: | EDIPA | EDIP1L    | :::            | FL085         | - |
+| ::: | NINAU | NINA1L    | :::            | FL085         | - |
+| ::: | SISAU | SISA1L    | :::            | FL085         | - |
+| ::: | KESIK | KESI1L    | :::            | FL085         | - |
+| ::: | LININ | LINI1L    | :::            | FL085         | - |
+| ::: | MOPAC | MOPA1L    | :::            | FL085         | - |
+| ::: | NEMDO | NEMD1L    | :::            | FL085         | - |
+| ::: | PINTO | PINT1D    | Non-RNAV Dep   | FL085         | - |
+| ::: | PISPU | PISP1D    | :::            | FL085         | - |
+| ::: | SNT   | SNT1D     | :::            | FL085         | - |
+| ::: | NCL   | NCL1D     | :::            | FL085         | - |
+| ::: | SVT   | SVT1D     | :::            | FL085         | - |
+
+{{page>gv-footer#GVBA}}

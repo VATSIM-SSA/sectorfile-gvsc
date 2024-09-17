@@ -1,0 +1,53 @@
+===== GVAC Information =====
+
+**Amílcar Cabral International Airport**, also known as Sal International Airport, is the main international airport of [[country:cape-verde:home|Cape Verde]]. The airport is named after the revolutionary leader Amílcar Cabral. It is located two km west-southwest from Espargos on Sal Island. Sal is the main hub for the national airline, Cabo Verde Airlines; and serves as a base for carrier Cabo Verde Express. This airport was also one of NASA's locations for a facility to handle the Space Shuttle after reentering from orbit. 
+
+For more information, please visit the airport page on [[https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral_International_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | GVAC |
+| IATA                  | SID |
+| Elevation             | 184 ft |
+| Transition Altitude   | 7000 ft |
+| Transition Level      | By ATC |
+| Mag Variation         | 10º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Blaise_Diagne_International_Airport&params=14_40_16_N_17_4_1_W_region:SN_type:airport&title=Blaise+Diagne+International+Airport|14°40′16″N 17°4′1″W]] |
+| Site | [[https://www.asa.cv/aeroportos/aeroporto-do-sal]] |
+
+
+==== Runways ====
+
+^ Runway   ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m)  ^ Remarks ^
+| 01       | 011º    | 3000     | 3300     | 3000     | 3000     | - |
+| 19       | 191º    | 3000     | 3300     | 3000     | 3000     | - |
+
+
+==== Aprons ====
+
+^ Apron Type           ^ Code  ^ Stands    ^ Entry / Exit  ^ Remarks ^
+| Main Apron           | -     | 1-7A      | B-C           | - |
+
+
+==== Positions & Frequencies ====
+
+^ Position      ^ Callsign          ^ Frequency ^ Remarks ^
+| GVAC_ATIS     | Amicabral ATIS    | 127.600   | -            |
+| GVSC_DEL      | Sal Delivery      | 122.100   | //Fictional Combined Delivery// |
+| GVAC_TWR      | Amicabral Tower   | 119.700   | -            |
+| GVSC_APP      | Sal Approach      | 126.400   | -            |
+| GVSC_CTR      | Sal Control       | 127.100   | -            |
+
+
+==== Airspace ====
+
+^ Airspace       ^ Class ^ Owner    ^ Limits         ^ Remarks ^
+| Sal CTR       | C     | GVAC_TWR | GND - FL085    | - |
+| Sal TMA       | C     | GVSC_APP | A007 - FL195   | - |
+| Sal TMA       | A     | GVSC_APP | FL195 - FL245  | - |
+| Sal Oceanic   | A     | GVSC_CTR | FL195 - FL245  | FIR |
+| Sal Oceanic   | A     | GVSC_CTR | FL245 - UNLTD  | - |
+
+
+{{page>gv-footer#GVAC}}

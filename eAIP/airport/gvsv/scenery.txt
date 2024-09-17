@@ -1,0 +1,9 @@
+===== GVSV Scenery =====
+
+^ Platform  ^ Type ^ Developer ^ Link ^ Remarks ^
+| P3D | Freeware | FSDG | [[https://fsdg-online.com/Free/Cape-Verde-FREE::15.html|Scenery]] | - |
+| FSX | Freeware | FSDG | [[https://fsdg-online.com/Free/Cape-Verde-FREE::15.html|Scenery]] | - |
+| MSFS | Freeware | ravelino | [[https://flightsim.to/file/42305/gvsv-cesaria-evora-airport|Scenery]] | - |
+
+
+{{page>gv-footer#GVSV}}

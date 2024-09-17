@@ -1,0 +1,11 @@
+===== GVAC Scenery =====
+
+^ Platform      ^ Type     ^ Developer   ^ Link                                                                                                          ^ Remarks ^
+| XP11         | Freeware | royaloak    | [[https://forums.x-plane.org/index.php?/files/file/18536-gvac-amilcar-cabral-international-airport/|Scenery]] | - |
+| FSX          | Freeware | Miguel Diaz | [[https://library.avsim.net/esearch.php?DLID=161381|Scenery]]                                                 | - |
+| P3Dv3/4      | Freeware | FSCV        | [[https://flight-sim-cabo-verde.webnode.pt/cenarios/|Scenery]]                                                | - |
+| FSX          | Freeware | FSCV        | [[https://flight-sim-cabo-verde.webnode.pt/cenarios/|Scenery]]                                                | - |
+| MSFS         | Freeware | ravelino    | [[https://flightsim.to/file/42267/gvac-amilcar-cabral-international-airport-sal-island-cape-verde|Scenery]]   | - |
+
+
+{{page>gv-footer#GVAC}}
