@@ -2,6 +2,13 @@
 
 <code>The GVAC_GND position is only available in predefined Events.</code>
 
+==== Latest Updates ====
+
+<note important>
+NOTAM | GVAC TWY F CLOSED 
+This means that full length departures from RWY01 is no longer possible, all aircraft must depart from intersection A2.
+</note>
+
 ==== Push-back Procedures ====
 
 === Phraseology ===

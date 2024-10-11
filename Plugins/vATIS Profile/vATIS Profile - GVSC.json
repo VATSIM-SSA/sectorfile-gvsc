@@ -36,7 +36,7 @@
 				{
 					"Name": "RWY 01",
 					"AirportConditions": "RUNWAY 01 IN USE. EXPECT ILS APPROACH.",
-					"Notams": null,
+					"Notams": "TAXIWAY F CLOSED. FULL LENGTH DEPARTURE UNAVAILABLE.",
 					"ArbitraryText": null,
 					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
 				},
