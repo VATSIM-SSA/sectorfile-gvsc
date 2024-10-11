@@ -6,7 +6,7 @@
 
 === Phraseology ===
 
-{{page>phraseology-icao#Pushback Approved}}
+{{page>phraseology:icao#Pushback Approved}}
 
 === Directions ===
 
@@ -22,7 +22,7 @@
 
 === Phraseology ===
 
-{{page>phraseology-icao#Taxi to HP}}
+{{page>phraseology:icao#Taxi to HP}}
 
 
 ==== Taxi In Procedures ====
@@ -32,7 +32,7 @@
 
 === Phraseology ===
 
-{{page>phraseology-icao#Taxi to Stand}}
+{{page>phraseology:icao#Taxi to Stand}}
 
 
 {{page>gv-footer#GVAC}}
