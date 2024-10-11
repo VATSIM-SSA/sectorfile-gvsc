@@ -17,7 +17,7 @@
 
   * VFR flights are not allowed over and above flight level 150 (DOC 7030 ICAO).
 
-{{page>icao-cruiselevels#RVSM Feet}}
+{{page>icao:cruise-levels#RVSM Feet}}
 
 
 ==== Departure Procedures & Initial Climbs ====

@@ -13,7 +13,7 @@ This means that full length departures from RWY01 is no longer possible, all air
 
 === Phraseology ===
 
-{{page>phraseology-icao#Pushback Approved}}
+{{page>phraseology:icao#Pushback Approved}}
 
 === Directions ===
 
@@ -29,7 +29,7 @@ This means that full length departures from RWY01 is no longer possible, all air
 
 === Phraseology ===
 
-{{page>phraseology-icao#Taxi to HP}}
+{{page>phraseology:icao#Taxi to HP}}
 
 
 ==== Taxi In Procedures ====
@@ -39,7 +39,7 @@ This means that full length departures from RWY01 is no longer possible, all air
 
 === Phraseology ===
 
-{{page>phraseology-icao#Taxi to Stand}}
+{{page>phraseology:icao#Taxi to Stand}}
 
 
 {{page>gv-footer#GVAC}}
