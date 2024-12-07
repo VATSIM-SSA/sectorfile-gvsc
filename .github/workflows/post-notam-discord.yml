@@ -4,11 +4,14 @@ on:
     branches:
       - main
     types: [closed]
+
 jobs:
   post-notam-discord:
-    if: ${{ (github.event.pull_request.merged == true) && (contains(github.event.pull_request.labels.*.name, 'notam')) }}
-    name: Post NOTAM to Discord
-    uses: cl8dep/action-discord@0.1
-    with:
-      webhook: ${{ secrets.DSCRD_NOTAM_WBHOOK }}
-      message: ${{ github.event.pull_request.title }}
+    if: ${{ github.event.pull_request.merged == true && contains(join(github.event.pull_request.labels.*.name, ','), 'notam') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post NOTAM to Discord
+        uses: cl8dep/action-discord@0.1
+        with:
+          webhook: ${{ secrets.DSCRD_NOTAM_WBHOOK }}
+          message: ${{ github.event.pull_request.title }}
