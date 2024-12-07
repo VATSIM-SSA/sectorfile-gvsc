@@ -6,9 +6,9 @@ on:
     types: [closed]
 jobs:
   post-notam-discord:
-    name: Post NOTAM to Discord
     if: ${{ (github.event.pull_request.merged == true) && (contains(github.event.pull_request.labels.*.name, 'notam')) }}
-    uses: cl8dep/action-discord@v0.1
+    name: Post NOTAM to Discord
+    uses: cl8dep/action-discord@0.1
     with:
       webhook: ${{ secrets.DSCRD_NOTAM_WBHOOK }}
       message: ${{ github.event.pull_request.title }}
