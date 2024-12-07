@@ -1,38 +1,14 @@
 name: GitHub NOTAMS for GVSC Discord Webhook
-# Make sure to change what triggers your action based on your needs
 on:
   pull_request:
     branches:
       - main
     types: [closed]
 jobs:
-  # ID of our job
-  webhook-request:
-    # OS to run our job on
+  post-notam-discord:
+    name: Post NOTAM to Discord
     if: ${{ (github.event.pull_request.merged == true) && (contains(github.event.pull_request.labels.*.name, 'notam')) }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Publish to the NOTAM Channel, GVSC Thread Discord Webhook
-        run: |
-          RESPONSE=$(curl -H "Content-Type: application/json" -X POST -d '{
-          "username": "GitHub",
-          "content": "${{ github.event.pull_request.title }}",
-          "embeds": [
-            {
-              "type": "rich",
-              "title": "${{ github.event.pull_request.title }}",
-              "description": "${{ github.event.pull_request.body }}",
-              "color": 2123412,
-              "thumbnail": {
-                "url": "https://avatars.githubusercontent.com/u/160980408?v=4"
-              },
-              "author": {
-                "name": "${{ github.actor }}",
-                "url": "https://github.com/${{ github.actor_id }}",
-                "icon_url": "https://avatars.githubusercontent.com/u/${{ github.actor_id }}?v=4"
-              },
-              "url": "https://github.com/***"
-            }
-          ]
-          }' ${{ secrets.DSCRD_NOTAM_WBHOOK }})
-          echo "Webhook server response: $RESPONSE"
+    uses: cl8dep/action-discord@v0
+    with:
+      webhook: ${{ secrets.DSCRD_NOTAM_WBHOOK }}
+      message: ${{ github.event.pull_request.title }}
