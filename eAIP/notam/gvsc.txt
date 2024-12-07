@@ -1,0 +1,11 @@
+#### GVSV ####
+
+### NOTAM A0147/24 ###
+
+<note important>
+A) GVSV
+B) 2412040800 C) 2501152300 EST
+E) STAND 3 AND 4 CLOSED DUE TO WIP
+</note>
+
+//[[https://github.com/VATSIM-SSA/sectorfile-gvsc/issues/12|GVSC #12]] | Update to GroundRadar//

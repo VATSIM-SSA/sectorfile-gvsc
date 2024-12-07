@@ -2,11 +2,12 @@
 //                 VATSSA | FIR GVSC | GroundRadar | Stands
 // ##################################################################
 
-// Version v0.2
-// Update Date 03/05/2022
+// Version v0.3
+// Update Date 07/12/2024
 
 // Changelog
 // v0.2 | Category Versioning Across WAF
+// v0.3 | #12 [NOTAM]: GVSV Temporary Closure of Stands 3 and 4 
 
 // Active Airports
 // GVSC | GVAC, GVBA, GVNP, GVSV, GVSF, GVSN
@@ -197,9 +198,11 @@ STAND:GVSV:2:N016.50.10.68:W025.03.15.87:20
 
 // Stand 3
 STAND:GVSV:3:N016.50.07.53:W025.03.20.82:20
+MANUAL
 
 // Stand 4
 STAND:GVSV:4:N016.50.06.63:W025.03.22.42:20
+MANUAL
 
 // Stand 5
 STAND:GVSV:5:N016.50.06.46:W025.03.25.57:20
