@@ -1,6 +1,6 @@
 ===== GVSV |  Cesaria Evora Intl |  Sao Pedro, Cape Verde =====
 
-{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing,notam|NOTAMs}}
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing,notams|NOTAMs}}
 
 
 {{page>gv-footer#GVSV}}
