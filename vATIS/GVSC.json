@@ -1,11 +1,16 @@
 {
 	"Name": "GVSC Sal FIR v3",
 	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-gvsc/refs/heads/main/vATIS/GVSC.json",
-	"updateSerial": 2025011903,
-	"Composites": [
+	"updateSerial": 2025011904,
+	"stations": [
 		{
 			"Name": "Sal",
 			"Identifier": "GVAC",
+			"atisType": "Combined",
+			"codeRange": {
+				"low": "A",
+				"high": "Z"
+			},
 			"Contractions": [
 				{
 					"String": "RNAV",
@@ -20,7 +25,10 @@
 					"Spoken": "ARE-ENN-PEE"
 				}
 			],
-			"AtisFrequency": 27600,
+			"notamsBeforeFreeText": true,
+			"airportConditionsBeforeFreeText": true,
+			"frequency": 127600000,
+			"useDecimalTerminology": true,
 			"ObservationTime": {
 				"Enabled": false,
 				"Time": 0
@@ -37,7 +45,7 @@
 			"Presets": [
 				{
 					"Name": "RWY 01",
-					"AirportConditions": "RUNWAY 01 IN USE. EXPECT ILS APPROACH.",
+					"airportConditions": "RUNWAY 01 IN USE. EXPECT ILS APPROACH.",
 					"Notams": null,
 					"ArbitraryText": null,
 					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
