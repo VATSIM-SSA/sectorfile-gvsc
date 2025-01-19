@@ -1,7 +1,7 @@
 {
 	"Name": "GVSC Sal FIR v3",
 	"updateUrl": "https://github.com/VATSIM-SSA/sectorfile-gvsc/blob/main/vATIS/GVSC.json",
-	"updateSerial": 2025011901,
+	"updateSerial": 2025011902,
 	"Composites": [
 		{
 			"Name": "Sal",
@@ -38,7 +38,7 @@
 				{
 					"Name": "RWY 01",
 					"AirportConditions": "RUNWAY 01 IN USE. EXPECT ILS APPROACH.",
-					"Notams": "TAXIWAY F CLOSED. FULL LENGTH DEPARTURE UNAVAILABLE.",
+					"Notams": null,
 					"ArbitraryText": null,
 					"Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. [TL]. ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]."
 				},
@@ -51,7 +51,18 @@
 				}
 			],
 			"AirportConditionDefinitions": [],
-			"NotamDefinitions": [],
+			"NotamDefinitions": [
+				{
+					"text": "TWY F CLOSED. FULL RWY DEP UNAVAILABLE",
+					"ordinal": 1,
+					"enabled": true
+				},
+				{
+					"text": "TWY C CLOSED",
+					"ordinal": 2,
+					"enabled": true
+				}
+			],
 			"TransitionLevels": [
 				{
 					"Low": 1047,
