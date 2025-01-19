@@ -1,7 +1,7 @@
 {
 	"Name": "GVSC Sal FIR v3",
 	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-gvsc/refs/heads/main/vATIS/GVSC.json",
-	"updateSerial": 2025011902,
+	"updateSerial": 2025011903,
 	"Composites": [
 		{
 			"Name": "Sal",
