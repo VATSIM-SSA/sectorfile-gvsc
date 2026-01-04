@@ -1,0 +1,4 @@
+# AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+GVAC:A:01:19:D:01:19:01,19,30_20
+GVAC:A:19:01:D:19:19:01,19,30_20
