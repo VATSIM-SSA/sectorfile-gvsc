@@ -1,0 +1,6 @@
+##----- Capacity Availability Document -----##
+#--- VATSSA Sal (GVSC) ---#
+GVAC,30
+GVBA,30
+GVNP,20
+GVSV,10
