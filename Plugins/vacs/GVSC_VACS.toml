@@ -1,0 +1,21 @@
+[stations]
+selected_profile = "GVSC"
+
+[stations.profiles.GVSC]
+include = [
+    "GV*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.GVSC.aliases]
